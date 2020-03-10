@@ -1,0 +1,10 @@
+http:
+  port: "8081"
+sfdc:
+  username: "your_username"
+  password: "your_password"
+  token: "your_token"
+
+
+file:
+    accountsDir: "C:\Users\Rahul.Singh3\Documents\COURSES\mulesoft\MUFundamentals4.2_studentFiles_20jan2020\resources"
